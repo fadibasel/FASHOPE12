@@ -1,0 +1,15 @@
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.BLL\bin\Debug\net9.0\FASHOP.BLL.deps.json
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.BLL\bin\Debug\net9.0\FASHOP.BLL.dll
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.BLL\bin\Debug\net9.0\FASHOP.BLL.pdb
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.BLL\bin\Debug\net9.0\FASHOP.DAL.dll
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.BLL\bin\Debug\net9.0\FASHOP.DAL.pdb
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.BLL\obj\Debug\net9.0\FASHOP.BLL.csproj.AssemblyReference.cache
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.BLL\obj\Debug\net9.0\FASHOP.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.BLL\obj\Debug\net9.0\FASHOP.BLL.AssemblyInfoInputs.cache
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.BLL\obj\Debug\net9.0\FASHOP.BLL.AssemblyInfo.cs
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.BLL\obj\Debug\net9.0\FASHOP.BLL.csproj.CoreCompileInputs.cache
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.BLL\obj\Debug\net9.0\FASHOP.BLL.csproj.Up2Date
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.BLL\obj\Debug\net9.0\FASHOP.BLL.dll
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.BLL\obj\Debug\net9.0\refint\FASHOP.BLL.dll
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.BLL\obj\Debug\net9.0\FASHOP.BLL.pdb
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.BLL\obj\Debug\net9.0\ref\FASHOP.BLL.dll

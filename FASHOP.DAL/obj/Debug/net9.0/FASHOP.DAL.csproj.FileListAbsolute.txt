@@ -1,0 +1,14 @@
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.DAL\bin\Debug\net9.0\FASHOP.DAL.deps.json
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.DAL\bin\Debug\net9.0\FASHOP.DAL.runtimeconfig.json
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.DAL\bin\Debug\net9.0\FASHOP.DAL.dll
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.DAL\bin\Debug\net9.0\FASHOP.DAL.pdb
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.DAL\obj\Debug\net9.0\FASHOP.DAL.csproj.AssemblyReference.cache
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.DAL\obj\Debug\net9.0\FASHOP.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.DAL\obj\Debug\net9.0\FASHOP.DAL.AssemblyInfoInputs.cache
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.DAL\obj\Debug\net9.0\FASHOP.DAL.AssemblyInfo.cs
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.DAL\obj\Debug\net9.0\FASHOP.DAL.csproj.CoreCompileInputs.cache
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.DAL\obj\Debug\net9.0\FASHOP.DAL.dll
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.DAL\obj\Debug\net9.0\refint\FASHOP.DAL.dll
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.DAL\obj\Debug\net9.0\FASHOP.DAL.pdb
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.DAL\obj\Debug\net9.0\FASHOP.DAL.genruntimeconfig.cache
+C:\Users\BROTHERS CENTER\Documents\api project\FASHOP\FASHOP.DAL\obj\Debug\net9.0\ref\FASHOP.DAL.dll
