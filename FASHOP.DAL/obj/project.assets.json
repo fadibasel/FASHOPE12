@@ -4717,11 +4717,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BROTHERS CENTER\\Documents\\api project\\FASHOP\\FASHOP.DAL\\FASHOP.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\BROTHERS CENTER\\Documents\\api_project\\FH\\FASHOP.DAL\\FASHOP.DAL.csproj",
       "projectName": "FASHOP.DAL",
-      "projectPath": "C:\\Users\\BROTHERS CENTER\\Documents\\api project\\FASHOP\\FASHOP.DAL\\FASHOP.DAL.csproj",
+      "projectPath": "C:\\Users\\BROTHERS CENTER\\Documents\\api_project\\FH\\FASHOP.DAL\\FASHOP.DAL.csproj",
       "packagesPath": "C:\\Users\\BROTHERS CENTER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BROTHERS CENTER\\Documents\\api project\\FASHOP\\FASHOP.DAL\\obj\\",
+      "outputPath": "C:\\Users\\BROTHERS CENTER\\Documents\\api_project\\FH\\FASHOP.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

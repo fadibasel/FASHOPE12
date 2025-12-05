@@ -1723,6 +1723,20 @@
           }
         }
       },
+      "FASHOP.BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "FASHOP.DAL": "1.0.0",
+          "Mapster": "7.4.0"
+        },
+        "compile": {
+          "bin/placeholder/FASHOP.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FASHOP.BLL.dll": {}
+        }
+      },
       "FASHOP.DAL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -5199,6 +5213,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "FASHOP.BLL/1.0.0": {
+      "type": "project",
+      "path": "../FASHOP.BLL/FASHOP.BLL.csproj",
+      "msbuildProject": "../FASHOP.BLL/FASHOP.BLL.csproj"
+    },
     "FASHOP.DAL/1.0.0": {
       "type": "project",
       "path": "../FASHOP.DAL/FASHOP.DAL.csproj",
@@ -5207,8 +5226,8 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "FASHOP.BLL >= 1.0.0",
       "FASHOP.DAL >= 1.0.0",
-      "Mapster >= 7.4.0",
       "Microsoft.AspNetCore.OpenApi >= 9.0.7",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.11",
       "Swashbuckle.AspNetCore >= 9.0.6"
@@ -5221,11 +5240,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BROTHERS CENTER\\Documents\\api project\\FASHOP\\KASHOP.PL\\FASHOP.PL.csproj",
+      "projectUniqueName": "C:\\Users\\BROTHERS CENTER\\Documents\\api_project\\FH\\KASHOP.PL\\FASHOP.PL.csproj",
       "projectName": "FASHOP.PL",
-      "projectPath": "C:\\Users\\BROTHERS CENTER\\Documents\\api project\\FASHOP\\KASHOP.PL\\FASHOP.PL.csproj",
+      "projectPath": "C:\\Users\\BROTHERS CENTER\\Documents\\api_project\\FH\\KASHOP.PL\\FASHOP.PL.csproj",
       "packagesPath": "C:\\Users\\BROTHERS CENTER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BROTHERS CENTER\\Documents\\api project\\FASHOP\\KASHOP.PL\\obj\\",
+      "outputPath": "C:\\Users\\BROTHERS CENTER\\Documents\\api_project\\FH\\KASHOP.PL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5246,8 +5265,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\BROTHERS CENTER\\Documents\\api project\\FASHOP\\FASHOP.DAL\\FASHOP.DAL.csproj": {
-              "projectPath": "C:\\Users\\BROTHERS CENTER\\Documents\\api project\\FASHOP\\FASHOP.DAL\\FASHOP.DAL.csproj"
+            "C:\\Users\\BROTHERS CENTER\\Documents\\api_project\\FH\\FASHOP.BLL\\FASHOP.BLL.csproj": {
+              "projectPath": "C:\\Users\\BROTHERS CENTER\\Documents\\api_project\\FH\\FASHOP.BLL\\FASHOP.BLL.csproj"
+            },
+            "C:\\Users\\BROTHERS CENTER\\Documents\\api_project\\FH\\FASHOP.DAL\\FASHOP.DAL.csproj": {
+              "projectPath": "C:\\Users\\BROTHERS CENTER\\Documents\\api_project\\FH\\FASHOP.DAL\\FASHOP.DAL.csproj"
             }
           }
         }
@@ -5268,10 +5290,6 @@
       "net9.0": {
         "targetAlias": "net9.0",
         "dependencies": {
-          "Mapster": {
-            "target": "Package",
-            "version": "[7.4.0, )"
-          },
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
             "version": "[9.0.7, )"

@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "3z6aA9aPrBc=",
+  "dgSpecHash": "pqn+B+jXpm0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\BROTHERS CENTER\\Documents\\api project\\FASHOP\\FASHOP.BLL\\FASHOP.BLL.csproj",
+  "projectFilePath": "C:\\Users\\BROTHERS CENTER\\Documents\\api_project\\FH\\FASHOP.BLL\\FASHOP.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BROTHERS CENTER\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\BROTHERS CENTER\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\BROTHERS CENTER\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\BROTHERS CENTER\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
     "C:\\Users\\BROTHERS CENTER\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\BROTHERS CENTER\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\BROTHERS CENTER\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.6\\microsoft.data.sqlclient.5.1.6.nupkg.sha512",
